@@ -1,0 +1,2 @@
+# QT_StudentScoreManager
+基于QT的学生成绩管理系统
